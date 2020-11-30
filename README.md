@@ -33,7 +33,5 @@ Hoje estudo programação e acho incrível como o design me proporcionou uma vis
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="30">
 </p>
 
-<a href="https://israelrosa.com/">💼 Portfólio</a>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=israelrosa)
+<h2 align="center"><a href="https://israelrosa.com/">Portfólio</a></h2>
 
