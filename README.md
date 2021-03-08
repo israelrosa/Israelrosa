@@ -8,11 +8,11 @@ Hoje estudo programação e acho incrível como o design me proporcionou uma vis
 
  <h2 align="center">⚡ Curiosidades</h2>
 
-- 🔭 Atualmente estou como voluntário na [SharkCode](https://github.com/sharkcodeEJ) e trabalhando na Spayce ( minha futura empresa 😁 ) .
+- 🔭 Desenvolvendo a Spayce ( minha futura empresa 😁 ) .
 - 🎨 Sou desginer gráfico e UI designer com bastante experiência e criatividade, uso as ferramentas Illustrator, Photoshop e Figma. 
 - 🎹 Sou músico, sei produzir jingles e trilhas sonoras no FL Studio.
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas no IFSC.
-- 💼 Tenho uma pequeno negócio de produtos personalizados chamado Gift.
+- 💼 Tenho um pequeno negócio de produtos personalizados chamado Gift.
 
 <h2 align="center">🌱 Estou estudando</h2>
 
