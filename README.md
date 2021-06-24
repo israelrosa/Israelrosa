@@ -10,7 +10,7 @@ Hoje estudo programação e acho incrível como o design me proporcionou uma vis
 
 - 🔭 Desenvolvendo a Spayce ( minha futura empresa 😁 ) .
 - 🎨 Sou desginer gráfico e UI designer com bastante experiência e criatividade, uso as ferramentas Illustrator, Photoshop e Figma. 
-- 🎹 Sou músico, sei produzir jingles e trilhas sonoras no FL Studio.
+- 🎹 Sou músico.
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas no IFSC.
 - 💼 Tenho um pequeno negócio de produtos personalizados chamado Gift.
 
