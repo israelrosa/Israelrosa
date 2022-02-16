@@ -8,11 +8,10 @@ Hoje estudo programação e acho incrível como o design me proporcionou uma vis
 
  <h2 align="center">⚡ Curiosidades</h2>
 
-- 🔭 Desenvolvendo a Spayce ( minha futura empresa 😁 ) .
+- 🔭 Desenvolvendo a Spayce.
 - 🎨 Sou desginer gráfico e UI designer com bastante experiência e criatividade, uso as ferramentas Illustrator, Photoshop e Figma. 
 - 🎹 Sou músico.
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas no IFSC.
-- 💼 Tenho um pequeno negócio de produtos personalizados chamado Gift.
 
 <h2 align="center">🌱 Estou estudando</h2>
 
