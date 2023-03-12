@@ -2,16 +2,15 @@
 
 
 
-Meu Nome é Israel Pires Rosa, sou músico, designer e programador. Minha história com o design e minha vida profissional começam numa pequena gráfica, onde fui procurar alguma oportunidade de emprego. Foi um grande desafio, mas eu sempre tive facilidade para aprender. Sem ter nenhuma experiência com os programas de edição, eu teria que aprender em menos de uma semana e fazer uma logo para passar no teste, consegui criar a logo que hoje é a atual da empresa e posteriormente ser contratado como responsável na área de design. Após alguns meses trabalhando e ao mesmo tempo aprendendo a usar as ferramentas e os conceitos de design, decidi abrir meu próprio negócio e enfrentar um novo desafio.
+Meu Nome é Israel Pires Rosa, sou músico, designer e programador. Minha história com o design e minha vida profissional começam em uma pequena gráfica, onde fui procurar alguma oportunidade de emprego. Foi um grande desafio, mas eu sempre tive facilidade para aprender. Sem ter nenhuma experiência com os programas de edição, eu teria que aprender em menos de uma semana e fazer uma logo para passar no teste, consegui criar a logo que hoje é a atual da empresa e posteriormente ser contratado como responsável na área de design. Após alguns meses trabalhando e ao mesmo tempo aprendendo a usar as ferramentas e os conceitos de design, decidi abrir meu próprio negócio e enfrentar um novo desafio.
 
-Hoje estudo programação e acho incrível como o design me proporcionou uma visão mais ampla nesse mundo do desenvolvimento. Estou com um projeto chamado Spayce, minha futura startup, que me dá um hype GIGANTESCO de estar sempre estudando, espero compartilhar com vocês futuramente esse grandioso projeto.
+Hoje estudo programação e acho incrível como o design me proporcionou uma visão mais ampla nesse mundo do desenvolvimento.
 
  <h2 align="center">⚡ Curiosidades</h2>
 
-- 🔭 Desenvolvendo a Spayce.
-- 🎨 Sou desginer gráfico e UI designer com bastante experiência e criatividade, uso as ferramentas Illustrator, Photoshop e Figma. 
+- 🎨 Sou desginer gráfico e UI designer com bastante experiência e criatividade. 
 - 🎹 Sou músico.
-- 🎓 Estou cursando Análise e Desenvolvimento de Sistemas no IFSC.
+- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas no IFSC.
 
 <h2 align="center">🌱 Estou estudando</h2>
 
